@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6DC0146-0BC0-4807-AEF7-AB9124B199CD}|PetStore.App\\PetStore.App.csproj|c:\\users\\admin\\desktop\\seavus\\c# advanced\\class04-genericsandextensions\\homework\\class04hw\\petstore.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6DC0146-0BC0-4807-AEF7-AB9124B199CD}|PetStore.App\\PetStore.App.csproj|solutionrelative:petstore.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868EAA81-1828-4F2C-83ED-BC006756F98D}|Domain\\Domain.csproj|C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\domain\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868EAA81-1828-4F2C-83ED-BC006756F98D}|Domain\\Domain.csproj|solutionrelative:domain\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868EAA81-1828-4F2C-83ED-BC006756F98D}|Domain\\Domain.csproj|C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\domain\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868EAA81-1828-4F2C-83ED-BC006756F98D}|Domain\\Domain.csproj|solutionrelative:domain\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868EAA81-1828-4F2C-83ED-BC006756F98D}|Domain\\Domain.csproj|C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\domain\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868EAA81-1828-4F2C-83ED-BC006756F98D}|Domain\\Domain.csproj|solutionrelative:domain\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868EAA81-1828-4F2C-83ED-BC006756F98D}|Domain\\Domain.csproj|C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\domain\\genericpetstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868EAA81-1828-4F2C-83ED-BC006756F98D}|Domain\\Domain.csproj|solutionrelative:domain\\genericpetstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868EAA81-1828-4F2C-83ED-BC006756F98D}|Domain\\Domain.csproj|C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\domain\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868EAA81-1828-4F2C-83ED-BC006756F98D}|Domain\\Domain.csproj|solutionrelative:domain\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\PetStore.App\\Program.cs",
+              "RelativeDocumentMoniker": "PetStore.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\PetStore.App\\Program.cs",
+              "RelativeToolTip": "PetStore.App\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:53:16.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\Domain\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\Domain\\Models\\Pet.cs",
+              "RelativeToolTip": "Domain\\Models\\Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:49:57.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericPetStore.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\Domain\\GenericPetStore.cs",
+              "RelativeDocumentMoniker": "Domain\\GenericPetStore.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\Domain\\GenericPetStore.cs",
+              "RelativeToolTip": "Domain\\GenericPetStore.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:34:07.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\Domain\\Models\\Fish.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Fish.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\Domain\\Models\\Fish.cs",
+              "RelativeToolTip": "Domain\\Models\\Fish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:26:44.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\Domain\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\Domain\\Models\\Cat.cs",
+              "RelativeToolTip": "Domain\\Models\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:25:44.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\Domain\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Seavus\\C# Advanced\\Class04-GenericsAndExtensions\\Homework\\Class04HW\\Domain\\Models\\Dog.cs",
+              "RelativeToolTip": "Domain\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:24:19.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
